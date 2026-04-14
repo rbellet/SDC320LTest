@@ -1,0 +1,14 @@
+C:\Users\RBellet\Downloads\MondayTest\bin\Debug\net8.0\MondayTest.exe
+C:\Users\RBellet\Downloads\MondayTest\bin\Debug\net8.0\MondayTest.deps.json
+C:\Users\RBellet\Downloads\MondayTest\bin\Debug\net8.0\MondayTest.runtimeconfig.json
+C:\Users\RBellet\Downloads\MondayTest\bin\Debug\net8.0\MondayTest.dll
+C:\Users\RBellet\Downloads\MondayTest\bin\Debug\net8.0\MondayTest.pdb
+C:\Users\RBellet\Downloads\MondayTest\obj\Debug\net8.0\MondayTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RBellet\Downloads\MondayTest\obj\Debug\net8.0\MondayTest.AssemblyInfoInputs.cache
+C:\Users\RBellet\Downloads\MondayTest\obj\Debug\net8.0\MondayTest.AssemblyInfo.cs
+C:\Users\RBellet\Downloads\MondayTest\obj\Debug\net8.0\MondayTest.csproj.CoreCompileInputs.cache
+C:\Users\RBellet\Downloads\MondayTest\obj\Debug\net8.0\MondayTest.dll
+C:\Users\RBellet\Downloads\MondayTest\obj\Debug\net8.0\refint\MondayTest.dll
+C:\Users\RBellet\Downloads\MondayTest\obj\Debug\net8.0\MondayTest.pdb
+C:\Users\RBellet\Downloads\MondayTest\obj\Debug\net8.0\MondayTest.genruntimeconfig.cache
+C:\Users\RBellet\Downloads\MondayTest\obj\Debug\net8.0\ref\MondayTest.dll
